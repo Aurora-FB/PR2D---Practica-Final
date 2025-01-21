@@ -1,0 +1,3 @@
+C:\Users\aurora.fernandez\Desktop\Recursos Practica 1_plantilla\plantilla\project\Debug\programacion2d.exe
+C:\Users\aurora.fernandez\Desktop\PR2D - Practica 4\plantilla\project\Debug\programacion2d.exe
+C:\Users\aurora.fernandez\Desktop\PR2D - Practica Final\plantilla\project\Debug\programacion2d.exe
