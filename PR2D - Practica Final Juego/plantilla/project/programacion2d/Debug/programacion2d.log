@@ -1,0 +1,71 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: 'APIENTRY': redefinición de macro
+  (compilando archivo de origen "../src/main.cpp")
+      C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\lib\glfw3.h(98,11):
+      vea la definición anterior de “APIENTRY”
+  
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\src\main.cpp(177,70): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\src\main.cpp(177,53): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\src\main.cpp(190,45): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\src\main.cpp(190,28): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\src\main.cpp(256,28): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\src\main.cpp(257,18): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  CircleCollider.cpp
+  CollisionFunctions.cpp
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\CollisionFunctions.cpp(26,15): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\CollisionFunctions.cpp(27,15): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\CollisionFunctions.cpp(46,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\CollisionFunctions.cpp(47,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\CollisionFunctions.cpp(48,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\CollisionFunctions.cpp(49,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\CollisionFunctions.cpp(79,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\CollisionFunctions.cpp(80,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\CollisionFunctions.cpp(81,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\CollisionFunctions.cpp(82,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\CollisionFunctions.cpp(105,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\CollisionFunctions.cpp(106,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\CollisionFunctions.cpp(107,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\CollisionFunctions.cpp(108,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  Font.cpp
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\Font.cpp(175,27): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\Font.cpp(181,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\Font.cpp(192,16): warning C4244: 'inicializando': conversión de 'const double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\Font.cpp(193,16): warning C4244: 'inicializando': conversión de 'const double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\Font.cpp(212,74): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\Font.cpp(212,65): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  PixelsCollider.cpp
+  pugixml.cpp
+  RectCollider.cpp
+  Sprite.cpp
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\Sprite.cpp(220,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\Sprite.cpp(234,78): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\Sprite.cpp(297,124): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\Sprite.cpp(297,106): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\Sprite.cpp(297,95): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\Sprite.cpp(297,86): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\Sprite.cpp(297,48): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\Sprite.cpp(297,36): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  Vec2.cpp
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\Vec2.cpp(99,15): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  World.cpp
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\World.cpp(317,19): warning C4244: 'inicializando': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\World.cpp(318,20): warning C4244: 'inicializando': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\World.cpp(320,21): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\World.cpp(321,21): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\World.cpp(326,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\World.cpp(327,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\World.cpp(331,106): warning C4244: 'argumento': conversión de 'const double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\World.cpp(331,92): warning C4244: 'argumento': conversión de 'const double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\World.cpp(331,60): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\World.cpp(331,47): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\World.cpp(344,14): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\World.cpp(345,14): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\World.cpp(346,14): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\World.cpp(347,14): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\World.cpp(351,109): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\World.cpp(351,101): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\World.cpp(351,75): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\World.cpp(351,58): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código...
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  programacion2d.vcxproj -> C:\Users\Emilio\Desktop\PR2D - Practica Final1\plantilla\project\Debug\programacion2d.exe
